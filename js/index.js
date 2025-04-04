@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = 'ELYS'.split('')
+const text = 'ARANA'.split('')
 const text = 'I Have Something For You'.split('')
 for (let index = 0; index < text.length; index++) {
   if (text[index] !== ' ') {
